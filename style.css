@@ -1,0 +1,21 @@
+.res-nav img{
+  width: 50px;
+}
+
+.nav-option {
+  background-color: #EEEEEE;
+  text-align: center;
+  
+  position: fixed;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  z-index: 100;
+}
+
+.mynav {
+  font-family:Arial, Helvetica, sans-serif;
+  color: black;
+  line-height: 2.4rem;
+  text-decoration: none;
+}
